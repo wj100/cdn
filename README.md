@@ -1,0 +1,2 @@
+# cdn
+jsDeliver+github
