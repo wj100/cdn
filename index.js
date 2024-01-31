@@ -23,7 +23,7 @@ app.post('/upload', (req, res) => {
     console.log(err)
     res.send({
       // 上传后的文件url
-      url: `https://raw.githubusercontent.com/wj100/cdn/main/${md5Name}`
+      url: `https://raw.githubusercontent.com/wj100/cdn/master/${md5Name}`
     })
   })
 })

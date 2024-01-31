@@ -1,6 +1,9 @@
 # cdn 
 使用github内容承载资源
-### 资源在master分支
+### 手动上传资源在main 分支
+https://raw.githubusercontent.com/wj100/cdn/main/img/watermark.png
+### 自动资源上传在master分支
+https://raw.githubusercontent.com/wj100/cdn/master/05da1938-5522-4cda-b0a8-e41ab277e5b0.png
 ### nginx配置如下 （如果需要代理）
 ```
  server {
